@@ -1,0 +1,8 @@
+.env
+memories.json
+memories.json.tmp
+reminders.json
+faces/
+models/
+__pycache__/
+*.pyc
