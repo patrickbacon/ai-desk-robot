@@ -1,0 +1,10 @@
+anthropic
+python-dotenv
+numpy
+requests
+sounddevice
+openwakeword
+opencv-contrib-python
+pyserial
+icalendar
+recurring-ical-events
